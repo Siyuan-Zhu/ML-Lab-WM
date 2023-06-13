@@ -91,7 +91,7 @@ projects:
   prevent_click: false
 
 outro:
-  enabled: true
+  enabled: false
   align: center
   image: false
   heading: Get Started Today
