@@ -8,8 +8,8 @@ meta_title: Jekyll Advance - Premium Jekyll Theme
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "The Machine Learning Lab @ WM"
+  sub_heading: "Welcome to the WM ML Lab!"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
