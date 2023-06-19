@@ -99,10 +99,10 @@ colors:
   menu_text: "inherit"
 
   # dark-mode colors
-  primary_dark: "#4486f2"
-  primary_2_dark: "#2f74e5"
+  primary_dark: "#115740"
+  primary_2_dark: "#B9975B"
   primary_text_dark: "#fdfcf9"
-  secondary_dark: "#8215cb"
+  secondary_dark: "#183028"
   background_dark: "#0f0f10"
   background_2_dark: "#1a191c"
   background_3_dark: "#222124"
