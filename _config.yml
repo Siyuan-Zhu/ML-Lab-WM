@@ -86,8 +86,8 @@ category_dir: category
 
 colors:
   #light-mode colors
-  primary: "#2b3af7"
-  primary_2: "#424ff8"
+  primary: "#086038"
+  primary_2: "#0b844d"
   primary_text: "#fdfcf9"
   secondary: "#702bf7"
   background: "#ffffff"
@@ -119,7 +119,7 @@ fonts:
   logo: "Lato"
 
 logo:
-  logo_text: "Jekyll Advance"
+  logo_text: "ML Lab @ WM"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
