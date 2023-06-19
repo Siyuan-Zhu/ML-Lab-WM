@@ -33,12 +33,12 @@ main:
   - name: Blog
     url: /blog/
     weight: 4
-  - name: About
-    url: /about/
-    weight: 5
   - name: People
     url: /team/
-    #weight: 6
+    weight: 5
+  - name: About
+    url: /about/
+    weight: 6
 footer_primary:
   - name: Home
     url: /
