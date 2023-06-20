@@ -30,6 +30,11 @@ Web design encompasses many different skills and disciplines in the production a
 
 Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
 
+```mermaid
+graph LR
+A-->B
+```
+
 ## What is Web Design?
 
 User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
