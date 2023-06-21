@@ -30,10 +30,6 @@ Web design encompasses many different skills and disciplines in the production a
 
 Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
 
-```mermaid
-graph LR
-A-->B
-```
 
 ## What is Web Design?
 
