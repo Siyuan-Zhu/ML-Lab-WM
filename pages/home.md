@@ -37,7 +37,7 @@ hero:
         style: "light"
 
 services:
-  enabled: false
+  enabled: true
   heading: "Our Services"
   sub_heading: ""
   limit: 6
@@ -91,7 +91,7 @@ projects:
   prevent_click: false
 
 outro:
-  enabled: true
+  enabled: false
   align: center
   image: false
   heading: Get Started Today

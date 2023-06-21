@@ -2,7 +2,7 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Services
+  - name: Research
     url: /services/
     weight: 1
     child:
@@ -18,7 +18,7 @@ main:
         url: /services/seo/
       - name: "Software Engineering"
         url: /services/software-engineering/
-  - name: Projects
+  - name: Teaching & Resources
     url: /projects/
     weight: 2
     child:
@@ -33,11 +33,11 @@ main:
   - name: Blog
     url: /blog/
     weight: 4
+  - name: People
+    url: /team/
+    weight: 5
   - name: About
     url: /about/
-    weight: 5
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
     weight: 6
 footer_primary:
   - name: Home

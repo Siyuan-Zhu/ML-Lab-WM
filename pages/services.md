@@ -1,14 +1,14 @@
 ---
 layout: list
-title: Services
-description: "A selection of our digital services"
+title: Research
+description: "Our research projects"
 permalink: "/services/"
 header_transparent: true
 
 hero:
   enabled: true
-  heading: "Services"
-  sub_heading: "We offer a complete range of digital services."
+  heading: "Research"
+  sub_heading: "Our research projects."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
