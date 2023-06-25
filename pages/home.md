@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "Machine Learning @ WM"
+description: "Welcome to the WM ML Lab!"
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: Machine Learning Lab @ William & Mary
 
 hero:
   enabled: true
