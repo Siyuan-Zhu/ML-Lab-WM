@@ -1,14 +1,14 @@
 ---
 layout: list
-title: Research
-description: "Our research projects"
+title: Current Projects
+description: "Our ongoing research projects!"
 permalink: "/services/"
 header_transparent: true
 
 hero:
   enabled: true
-  heading: "Research"
-  sub_heading: "Our research projects."
+  heading: "Current Projects"
+  sub_heading: "Get involved in our ongoing research projects!"
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
@@ -35,7 +35,7 @@ grid:
   prevent_click: false
 
 intro:
-  enabled: false
+  enabled: true
   align: left
   image: false
   heading: "A Full Service Agency"
@@ -53,12 +53,12 @@ outro:
   enabled: true
   align: left
   image: false
-  heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  heading: "Ready to get involved?"
+  sub_heading: "Contact us about a project you are interested in!"
   buttons:
     enabled: true
     list:
-      - text: "Get A Quote"
+      - text: "Email"
         url: "/contact"
         external: false
         fa_icon: false

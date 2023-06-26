@@ -1,15 +1,15 @@
 ---
 layout: list
 collection: "projects"
-title: Projects
-description: "A selection of our work and projects."
+title: Learning Resources
+description: "A curation of learning resurces, courses and references."
 permalink: "/projects/"
 header_transparent: true
 
 hero:
   enabled: true
-  heading: "Projects"
-  sub_heading: "Our portfolio of work and projects."
+  heading: "Learning Resources"
+  sub_heading: "A curation of learning resurces, courses and references."
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
@@ -36,7 +36,7 @@ grid:
   prevent_click: false
 
 intro:
-  enabled: false
+  enabled: true
   align: left
   image: false
   heading: "We are a full service digital agency"
