@@ -5,4 +5,4 @@ layout: basic
 permalink: "/contact/success"
 ---
 
-## Your form was submitted
+##Your form was submitted
