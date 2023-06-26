@@ -171,10 +171,10 @@ footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "The Machine Learning Lab @ WM"
   footer_description: "The ML Lab @ WM aims to assist the Tribe community with the the full range of machine leaning and AI related research development, design and execution."
-  enable_social_media_icons: true
+  enable_social_media_icons: false
   enable_contact_details: true
-  enable_menu_footer_primary: true
-  enable_menu_footer_secondary: true
+  enable_menu_footer_primary: false
+  enable_menu_footer_secondary: false
   enable_menu_footer_tertiary: false
   footer_primary_menu_title: "Product"
   footer_secondary_menu_title: "Company"

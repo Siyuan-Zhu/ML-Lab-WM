@@ -58,7 +58,7 @@ intro:
         style: "primary"
 
 outro:
-  enabled: true
+  enabled: false
   align: left
   image: false
   heading: "Ready to get started?"
